@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    margin: 0 20%;
+}
+
+nav {
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: rgb(107, 107, 107);
+}
+
+a:hover {
+    color: red;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    font-size: 4em;
+   
+}
+
+ul li {
+list-style: none;
+font-family:Georgia, 'Times New Roman', Times, serif;
+line-height: 2;
+}
+
+.paragrapheUn {
+    border: solid rgb(217, 247, 217) 2px;
+    
+}
+
+.paragrapheDeux {
+    border: solid rgb(255, 190, 190) 2px;
+}
+
+.paragrapheTrois {
+    border: solid rgb(211, 211, 252) 2px;
+}
+
+.paragrapheQuatre {
+    border: solid rgb(253, 253, 192) 2px;
+}
